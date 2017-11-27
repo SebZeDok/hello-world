@@ -32,14 +32,14 @@
     [
         "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 306,
             "modifiedTime": 1511535507000,
             "changeTime": 1511535507000,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -268,27 +268,27 @@
     [
         "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 169,
-            "modifiedTime": 1511535085000,
-            "changeTime": 1511535085000,
-            "contentHash": "6c12bc2162471a5e734921e6fc4b05f061ed190e",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 167,
+            "modifiedTime": 1511535929000,
+            "changeTime": 1511535929000,
+            "contentHash": "7e42858a5b70f2f7e5dbc67ce0ca4cadb5c6ff95"
         }
     ],
     [
         "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1511534834000,
-            "changeTime": 1511534834000,
-            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 228,
+            "modifiedTime": 1511535929000,
+            "changeTime": 1511535929000,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa"
         }
     ],
     [
@@ -307,131 +307,131 @@
     [
         "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1511534834000,
-            "changeTime": 1511534834000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 64,
+            "modifiedTime": 1511535929000,
+            "changeTime": 1511535929000,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897"
         }
     ],
     [
         "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
+            "state": "u",
             "sourcePath": "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1511534834000,
-            "changeTime": 1511534834000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 44,
+            "modifiedTime": 1511535929000,
+            "changeTime": 1511535929000,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
         }
     ],
     [
         "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1511534834000,
-            "changeTime": 1511534834000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 49,
+            "modifiedTime": 1511535929000,
+            "changeTime": 1511535929000,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
         }
     ],
     [
         "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1511535507000,
             "changeTime": 1511535507000,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4457,
             "modifiedTime": 1511535507000,
             "changeTime": 1511535507000,
-            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390"
+            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4461,
             "modifiedTime": 1511535507000,
             "changeTime": 1511535507000,
-            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38"
+            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4797,
             "modifiedTime": 1511535507000,
             "changeTime": 1511535507000,
-            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9"
+            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17142,
             "modifiedTime": 1511535507000,
             "changeTime": 1511535507000,
-            "contentHash": "1b19f77b701bcc419030905bb142e2d48c6eab14"
+            "contentHash": "1b19f77b701bcc419030905bb142e2d48c6eab14",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1511535507000,
             "changeTime": 1511535507000,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/entrakt/Documents/SFDX/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1511535507000,
             "changeTime": 1511535507000,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
